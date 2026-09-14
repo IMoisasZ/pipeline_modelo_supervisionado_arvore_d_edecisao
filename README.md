@@ -82,7 +82,7 @@ Bibliotecas utilizadas para manipulação, pré-processamento, modelagem e visua
 - Configuração e ajuste de uma **Árvore de Decisão** (`DecisionTreeClassifier`) com hiperparâmetro `max_depth=10` e `random_state=0`.
 - Analise visual
 
-#### 7.1 Arvore de Decisão
+#### 📊 7.1 Arvore de Decisão
 
 !['Arvore de Decisão'](./assets/arvore_de_decisao.png)
 
