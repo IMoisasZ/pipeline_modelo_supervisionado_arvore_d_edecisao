@@ -47,19 +47,19 @@ Bibliotecas utilizadas para manipulação, pré-processamento, modelagem e visua
 
 #### 📊 2.1 Contagem de pacientes Com Cancer e Sem Cancer
 
-!['Analise das Classes'](".assets/analise_classes.png")
+![Analise das Classes](./assets/analise_classes.png)
 
 #### 📊 .2 Histograma da Distribuição de Idades - Pacientes com Câncer
 
-!['Distribuição de Idades - Pacientes com Câncer']("../../assets/distribuicao_pacientes_com_cancer_por_idade.png")
+!['Distribuição de Idades - Pacientes com Câncer'](./assets/distribuicao_pacientes_com_cancer_por_idade.png)
 
 #### 📊 2.3 Gráfico de Dispersão
 
-!['Gráfico de Dispersão']("../../assets/grafico_de_dispersao.png")
+!['Gráfico de Dispersão'](./assets/grafico_de_dispersao.png)
 
 #### 📊 2.4 Gráfico de Boxplot
 
-!['Gráfico de Boxplot']("../../assets/distribuicao_de_glicose_por_classificacao.png")
+!['Gráfico de Boxplot'](./assets/distribuicao_de_glicose_por_classificacao.png)
 
 ### 3. Análise Exploratória (EDA)
 
@@ -84,7 +84,7 @@ Bibliotecas utilizadas para manipulação, pré-processamento, modelagem e visua
 
 #### 7.1 Arvore de Decisão
 
-!['Arvore de Decisão']("../../assets/arvore_de_decisao.png")
+!['Arvore de Decisão'](./assets/arvore_de_decisao.png)
 
 ### 8. Avaliação e Resultados
 
@@ -93,11 +93,11 @@ Bibliotecas utilizadas para manipulação, pré-processamento, modelagem e visua
 
 #### 📊 8.1 Matriz de Confusão
 
-!['Matriz de Confusão']("../../assets/matriz_de_confusao.png")
+!['Matriz de Confusão'](./assets/matriz_de_confusao.png)
 
 #### 📊 8.2 Relatório de Classificação
 
-!['Relatório de Classificação - (classification_report)']("../../assets/relatorio_de_classificacao.png")
+!['Relatório de Classificação - (classification_report)'](./assets/relatorio_de_classificacao.png)
 
 ---
 
